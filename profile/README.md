@@ -1,23 +1,7 @@
-# YGT Labs AI
-
-YGT Labs AI builds practical software, automation, and AI-enabled products for real operational workflows.
-
-## Product
-
-- **[TunerStack](https://tunerstack.io)** — operations layer after existing ECU tools for customer, vehicle, file, team, and delivery context.
-
-## Focus
-
-- Reliable customer-facing SaaS and multi-tenant systems
-- Developer tools and workflow automation
-- Integrations, file processing, and operational software
-- Clear privacy, security, and tenant boundaries
-
-## Links
-
-- [YGT Labs AI](https://ygtlabs.ai)
-- [TunerStack](https://tunerstack.io)
-- [Approved folders and traceable ECU tuning handoff](https://tunerstack.io/resources/ecu-workspace-approvals)
-- [Founder and open-source work](https://github.com/IamYGT)
-
-We prefer useful software, reproducible engineering, and honest product evidence over empty growth metrics.
+<p align="center">
+<a href="https://ygtlabs.ai/"><img src="https://raw.githubusercontent.com/YGT-Labs-AI/.github/master/profile/assets/logo.svg" width="42.26%" align="top" alt="YGT Labs AI"></a><a name="headline"><img src="https://raw.githubusercontent.com/YGT-Labs-AI/.github/master/profile/assets/headline.svg" width="57.69%" align="top" alt="Architect of Digital Transformation. A technology holding based in Delaware, USA."></a><br>
+<a href="https://ecutuningportal.com/"><img src="https://raw.githubusercontent.com/YGT-Labs-AI/.github/master/profile/assets/ecu.svg" width="60.45%" align="top" alt="ECU Tuning Portal — SaaS platform"></a><a name="maglink"><img src="https://raw.githubusercontent.com/YGT-Labs-AI/.github/master/profile/assets/maglink.svg" width="39.50%" align="top" alt="MagLink Pass — IoT &amp; hardware"></a><br>
+<a href="https://hegemonia.gg/"><img src="https://raw.githubusercontent.com/YGT-Labs-AI/.github/master/profile/assets/hegemonia.svg" width="34.61%" align="top" alt="Hegemonia — Strategy game"></a><a name="routebalkan"><img src="https://raw.githubusercontent.com/YGT-Labs-AI/.github/master/profile/assets/routebalkan.svg" width="30.62%" align="top" alt="RouteBalkan — Travel &amp; transfer"></a><a href="https://tuningwebsite.com/"><img src="https://raw.githubusercontent.com/YGT-Labs-AI/.github/master/profile/assets/tuningwebsite.svg" width="34.72%" align="top" alt="Tuning Website — Web design"></a><br>
+<a href="https://memsidea.com/"><img src="https://raw.githubusercontent.com/YGT-Labs-AI/.github/master/profile/assets/memsidea.svg" width="52.47%" align="top" alt="Memsidea — Digital agency"></a><a name="aifal"><img src="https://raw.githubusercontent.com/YGT-Labs-AI/.github/master/profile/assets/aifal.svg" width="47.48%" align="top" alt="AI Fal &amp; B2C — Consumer apps"></a><br>
+<a name="focus"><img src="https://raw.githubusercontent.com/YGT-Labs-AI/.github/master/profile/assets/focus.svg" width="44.82%" align="top" alt="AI · IoT · Integrated Automation"></a><a href="https://ygtlabs.ai/#brands"><img src="https://raw.githubusercontent.com/YGT-Labs-AI/.github/master/profile/assets/explore.svg" width="23.44%" align="top" alt="Explore our brands →"></a><a href="https://ygtlabs.ai/"><img src="https://raw.githubusercontent.com/YGT-Labs-AI/.github/master/profile/assets/site.svg" width="12.76%" align="top" alt="ygtlabs.ai"></a><a href="mailto:hello@ygtlabs.ai"><img src="https://raw.githubusercontent.com/YGT-Labs-AI/.github/master/profile/assets/contact.svg" width="18.93%" align="top" alt="hello@ygtlabs.ai"></a>
+</p>
